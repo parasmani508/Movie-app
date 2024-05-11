@@ -9,9 +9,8 @@ In the project directory, you can run:
 ### `npm start`
 
 Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-https://github.com/parasmani508/Movie-app/assets/113166283/bb87c6ee-bb6a-4605-97ce-60a66c044e42
+Open [http://localhost:3000](http://localhost:3000) to view it in your browse
+https://github.com/parasmani508/Movie-app/assets/113166283/fa8f1c47-6f97-4e88-a52e-b63acffcf76c
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
