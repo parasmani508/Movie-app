@@ -11,6 +11,8 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
+https://github.com/parasmani508/Movie-app/assets/113166283/bb87c6ee-bb6a-4605-97ce-60a66c044e42
+
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
