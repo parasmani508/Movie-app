@@ -10,7 +10,9 @@ In the project directory, you can run:
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browse
-https://github.com/parasmani508/Movie-app/assets/113166283/fa8f1c47-6f97-4e88-a52e-b63acffcf76c
+
+![work3](https://github.com/parasmani508/Movie-app/assets/113166283/34b1446e-6be6-4386-b547-82205c85e533)
+
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
